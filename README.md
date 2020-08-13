@@ -1,4 +1,4 @@
-<h1 align="center">My name is Szymon Bednorz</h1>
+<h1 align="center">Hello, I'm Szymon Bednorz</h1>
 <h3 align="center">I am a self-taught IT and ML enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsonyy" alt="dsonyy" /> </p>
