@@ -7,6 +7,7 @@ I'm a high-school student and programming enthusiast from Poland.
 - 📚 Learning everything but currently:
   - OpenCV, Keras/Tensorflow, Scikit-learn,
 - 🕹 I've created several games and application in different technologies during the years.
+- I was teaching youth programming as a volunteer at [CoderDojo Rybnik](https://coderdojo.org.pl/) and [Akademia Techniczna Małolata](https://www.facebook.com/atm.rybnik/).
 - ♟ Enjoy chess (but I'm definitely not a GM).
 - 🎒 The last year of high-school (doing lots of maths).
 
