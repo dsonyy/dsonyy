@@ -21,7 +21,7 @@ My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*
 |:---|:---|
 |🚀 **Mars Rover "Knurów"**|Work in progress. [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). |
 |🔦 [Light Printer](https://github.com/dsonyy/light-printer)|Project developed with love for long exposure photos.|
-|☁ [Point Clouds to GIF]()|Renders plain text XYZ point clouds and save them as GIF animations.|
+|☁ [Point Clouds to GIF](https://github.com/dsonyy/point-cloud-to-gif)|Renders plain text XYZ point clouds and save them as GIF animations.|
 |🏡 **Smart Home Mockup**|Shows the potential of home automation.|
 |🤖 **Scan & Print**|A box generating a point cloud from the physical object closed inside.|
 |🧬 [Game of life in Go/WASM](https://github.com/dsonyy/wasm-game-of-life)|[Conway's Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) compiled to WebAssembly from Go.|
