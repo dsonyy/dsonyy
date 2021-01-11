@@ -10,7 +10,7 @@ My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*
 - 💻 Mainly program in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), JavaScript.
 - 👁 Interested in computer vision and machine learning applications.
 - 📚 Learn everything but currently focusing on: OpenCV, Keras/Tensorflow, Scikit-learn, Go.
-- 🕹 I've created several games and application in different technologies during the years.
+- 🕹 I've created several games and applications in different technologies over the years.
 - 👨‍🏫I was teaching youth programming as a volunteer mentor at [CoderDojo Rybnik](https://coderdojo.org.pl/) and [Akademia Techniczna Małolata](https://www.facebook.com/atm.rybnik/).
 - 🎨 Occasionally do some digital painting and 3D modelling.
 - ♟ Enjoy chess (but I'm definitely not a GM).
