@@ -6,7 +6,7 @@ I'm a high-school student and programming enthusiast from Poland.
 My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*
 
 ### About me
-- 🤖 Member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). Working on a software for mars rover.
+- 🤖 Member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). Working on a software for a mars rover.
 - 💻 Mainly program in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), JavaScript.
 - 👁 Interested in computer vision and machine learning applications.
 - 📚 Learn everything but currently focusing on: OpenCV, Keras/Tensorflow, Scikit-learn, Go.
