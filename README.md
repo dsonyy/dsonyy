@@ -1,7 +1,7 @@
 ### Hello! I'm Szymon.
 I'm a high-school student and programming enthusiast from Poland.
 
-[LinkedIn](https://www.linkedin.com/in/szymonbednorz/) • [Kaggle](https://www.kaggle.com/dsonyy) • [Instagram](https://www.instagram.com/dsonyy/) • [Stack Overflow](https://stackoverflow.com/users/7389107/szymon-bednorz) • [Youtube](https://www.youtube.com/channel/UCTK1G50nzIpqyXorTgXk7kw)
+[Telegram](https://t.me/dsonyy) • [LinkedIn](https://www.linkedin.com/in/szymonbednorz/) • [Kaggle](https://www.kaggle.com/dsonyy) • [Instagram](https://www.instagram.com/dsonyy/) • [Stack Overflow](https://stackoverflow.com/users/7389107/szymon-bednorz) • [Youtube](https://www.youtube.com/channel/UCTK1G50nzIpqyXorTgXk7kw)
 
 My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*
 
