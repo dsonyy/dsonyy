@@ -7,9 +7,9 @@ My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*
 
 ### About me
 - 🤖 Member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). Working on a software for a mars rover.
-- 💻 Mainly program in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), JavaScript.
+- 💻 Mainly program in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), [JavaScript](https://github.com/dsonyy/frontend-stuff).
 - 👁 Interested in computer vision and machine learning applications.
-- 📚 Learn everything but currently focusing on: OpenCV, Keras/Tensorflow, Scikit-learn, Go.
+- 📚 Learn everything but currently focusing on: Robotic Operating System, OpenCV, Keras/Tensorflow, Scikit-learn, Go.
 - 🕹 I've created several games and applications in different technologies over the years.
 - 👨‍🏫I was teaching youth programming as a volunteer mentor at [CoderDojo Rybnik](https://coderdojo.org.pl/) and [Akademia Techniczna Małolata](https://www.facebook.com/atm.rybnik/).
 - 🎨 Occasionally do some digital painting and 3D modelling.
