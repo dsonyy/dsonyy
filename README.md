@@ -16,6 +16,11 @@ My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*
 - ♟ Enjoy chess (but I'm definitely not a GM).
 - 🎒 The last year of high-school (doing lots of maths).
 
+### Skills
+-
+-
+-
+
 ### Some of my projects
 |**Project**|**Description**|
 |:---|:---|
