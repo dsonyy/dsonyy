@@ -3,8 +3,6 @@ I'm a high-school student and programming enthusiast from Poland.
 
 [Telegram](https://t.me/dsonyy) • [LinkedIn](https://www.linkedin.com/in/szymonbednorz/) • [Kaggle](https://www.kaggle.com/dsonyy) • [Instagram](https://www.instagram.com/dsonyy/) • [Stack Overflow](https://stackoverflow.com/users/7389107/szymon-bednorz) • [Youtube](https://www.youtube.com/channel/UCTK1G50nzIpqyXorTgXk7kw)
 
-My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*
-
 ### About me
 - 🤖 Member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). Working on a software for a mars rover.
 - 💻 Mainly program in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), [JavaScript](https://github.com/dsonyy/frontend-stuff).
@@ -27,3 +25,5 @@ My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*
 |🤖 **Scan & Print**|A box generating a point cloud from the physical object closed inside.|
 |🧬 [Game of life in Go/WASM](https://github.com/dsonyy/wasm-game-of-life)|[Conway's Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) compiled to WebAssembly from Go.|
 |🤨 [n-Dimensional Tic-Tac-Toe](https://github.com/dsonyy/n-dimensional-tic-tac-toe)|Implementation of the game rules on n-dimensional board.|
+  
+<sup><sup>My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*</sup></sup>
