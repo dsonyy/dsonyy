@@ -17,6 +17,7 @@ I'm a high-school student and programming enthusiast from Poland.
 |**Project**|**Description**|
 |:---|:---|
 |🚀 **Mars Rover "Knurów"**|Work in progress. [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). |
+|🧪 [Cloud of Science](https://github.com/dsonyy/cloud-of-science)| Visualizing technology-related papers as an interactive cloud. |
 |🔦 [Light Printer](https://github.com/dsonyy/light-printer)|Project developed with love for long exposure photos.|
 |☁ [Point Clouds to GIF](https://github.com/dsonyy/point-cloud-to-gif)|Renders plain text XYZ point clouds and save them as GIF animations.|
 |🏡 **Smart Home Mockup**|Shows the potential of home automation.|
