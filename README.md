@@ -1,5 +1,5 @@
 ### Hello! I'm Szymon.
-I'm a high-school student and programming enthusiast from Poland.
+I'm a student and programming enthusiast from Poland.
 
 [Telegram](https://t.me/dsonyy) • [LinkedIn](https://www.linkedin.com/in/szymonbednorz/) • [Kaggle](https://www.kaggle.com/dsonyy) • [Instagram](https://www.instagram.com/dsonyy/) • [Stack Overflow](https://stackoverflow.com/users/7389107/szymon-bednorz) • [Youtube](https://www.youtube.com/channel/UCTK1G50nzIpqyXorTgXk7kw)
 
@@ -25,5 +25,8 @@ I'm a high-school student and programming enthusiast from Poland.
 |🤖 **Scan & Print**|A box generating a point cloud from the physical object closed inside.|
 |🧬 [Game of life in Go/WASM](https://github.com/dsonyy/wasm-game-of-life)|[Conway's Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) compiled to WebAssembly from Go.|
 |🤨 [n-Dimensional Tic-Tac-Toe](https://github.com/dsonyy/n-dimensional-tic-tac-toe)|Implementation of the game rules on n-dimensional board.|
+|🖥 [C++ stuff](https://github.com/dsonyy/cpp-stuff)|My small programs and stuff written in C++.|
+|🐍 [Python stuff](https://github.com/dsonyy/python-stuff)|My small programs and stuff written in Python.|
+|🦦 [Go stuff](https://github.com/dsonyy/go-stuff)|My small programs and stuff written in Go.|
   
 <sup><sup>My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*</sup></sup>
