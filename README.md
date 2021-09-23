@@ -21,7 +21,7 @@ I'm a student and programming enthusiast from Poland.
 |🔦 [Light Printer](https://github.com/dsonyy/light-printer)|Project developed with love for long exposure photos.|
 |☁ [Point Clouds to GIF](https://github.com/dsonyy/point-cloud-to-gif)|Renders plain text XYZ point clouds and save them as GIF animations.|
 |🏡 **Smart Home Mockup**|Shows the potential of home automation.|
-|🎆 **2D Lidar -> 3D Lidar**| Making 2D lidar behave more 3D. Work in progress. |
+|🎆 [**2D Lidar -> 3D Lidar**](https://github.com/knei-knurow/lidar-2d-to-3d)| Making 2D lidar behave more 3D. Work in progress. |
 |🎆 [**Lidar Visualizations**](https://github.com/knei-knurow/lidar-visualizations)| A part of the article for [Practical Electronics Magazine](https://ep.com.pl/).|
 |🤖 **Scan & Print**|A box generating a point cloud from the physical object closed inside.|
 |🧬 [Game of life in Go/WASM](https://github.com/dsonyy/wasm-game-of-life)|[Conway's Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) compiled to WebAssembly from Go.|
