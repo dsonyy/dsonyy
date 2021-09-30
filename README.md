@@ -4,6 +4,7 @@ I'm a student and programming enthusiast from Poland.
 [Telegram](https://t.me/dsonyy) • [LinkedIn](https://www.linkedin.com/in/szymonbednorz/) • [Kaggle](https://www.kaggle.com/dsonyy) • [Instagram](https://www.instagram.com/dsonyy/) • [Stack Overflow](https://stackoverflow.com/users/7389107/szymon-bednorz) • [Youtube](https://www.youtube.com/channel/UCTK1G50nzIpqyXorTgXk7kw)
 
 ### About me
+- 🎓 Computer science student at AGH University of Science and Technology.
 - 🤖 Member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). Working on a software for a mars rover.
 - 💻 Mainly program in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), [JavaScript](https://github.com/dsonyy/frontend-stuff).
 - 👁 Interested in computer vision and machine learning applications.
