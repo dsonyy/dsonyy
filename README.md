@@ -6,7 +6,7 @@ I'm a student and programming enthusiast from Poland.
 ### About me
 - 🎓 Computer science student at AGH University of Science and Technology.
 - 🤖 Member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). Working on a software for a mars rover.
-- 💻 Mainly program in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), [JavaScript](https://github.com/dsonyy/frontend-stuff).
+- 💻 Mainly programming in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), [JavaScript](https://github.com/dsonyy/frontend-stuff).
 - 👁 Interested in computer vision and machine learning applications.
 - 📚 Currently focusing on: Golang, Javascript, OpenCV.
 - 🕹 I've created several games and applications in different technologies over the years.
