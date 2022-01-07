@@ -7,11 +7,11 @@ I'm a student and programming enthusiast from Poland.
 - 🎓 Computer Science student at AGH University of Science and Technology.
 - 🤖 Member of [AGH Space Systems](http://spacesystems.agh.edu.pl/#/). Kalman Mars Rover software team.
 - 🤖 Former member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). Knurów Mars Rover software team.
+- 👨‍🏫 Former volunteer mentor/teacher at [CoderDojo Rybnik](https://coderdojo.org.pl/) and [Akademia Techniczna Małolata](https://www.facebook.com/atm.rybnik/).
 - 💻 Mainly programming in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), [JavaScript](https://github.com/dsonyy/frontend-stuff).
 - 👁 Interested in computer vision and machine learning applications.
 - 📚 Currently focusing on: university stuff.
 - 🕹 I've created several games and applications in different technologies over the years.
-- 👨‍🏫 I was teaching youth programming as a volunteer mentor at [CoderDojo Rybnik](https://coderdojo.org.pl/) and [Akademia Techniczna Małolata](https://www.facebook.com/atm.rybnik/).
 - 🎨 Occasionally do some digital painting and 3D modelling.
 
 ### Some of my projects
@@ -31,4 +31,4 @@ I'm a student and programming enthusiast from Poland.
 |🐍 [Python stuff](https://github.com/dsonyy/python-stuff)|My small programs and stuff written in Python.|
 |🦦 [Go stuff](https://github.com/dsonyy/go-stuff)|My small programs and stuff written in Go.|
   
-<sup><sup>My still-in-progress website: *[szymonbednorz.com](https://szymonbednorz.com)*</sup></sup>
+<sup><sup>My still-in-progress website and blog: *[szymonbednorz.com](https://szymonbednorz.com)*</sup></sup>
