@@ -10,7 +10,7 @@ I'm a student and programming enthusiast from Poland.
 - 👨‍🏫 Former volunteer mentor/teacher at [CoderDojo Rybnik](https://coderdojo.org.pl/) and [Akademia Techniczna Małolata](https://www.facebook.com/atm.rybnik/).
 - 💻 Mainly programming in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), [JavaScript](https://github.com/dsonyy/frontend-stuff).
 - 👁 Interested in computer vision and machine learning applications.
-- 📚 Currently focusing on: university stuff.
+- 📚 Currently focusing on: Mars roverz
 - 🕹 I've created several games and applications in different technologies over the years.
 - 🎨 Occasionally do some digital painting and 3D modelling.
 
