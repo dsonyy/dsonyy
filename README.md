@@ -17,14 +17,15 @@ I'm a student and programming enthusiast from Poland.
 ### Some of my projects
 |**Project**|**Description**|
 |:---|:---|
-|🚀 **Mars Rover "Knurów"**|[Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). |
+|🚀 **Mars Rover Kalman**|[AGH Space Systems](https://pl-pl.facebook.com/aghspace/), 4th in the world at University Rover Challenge 2022. |
+|🚀 Mars Rover Knurów|[Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). |
 |🧪 [Cloud of Science](https://github.com/dsonyy/cloud-of-science)| [WIP] Visualizing technology-related papers as an interactive cloud. |
 |🔦 [Light Printer](https://github.com/dsonyy/light-printer)|Project developed with love for long exposure photos.|
 |☁ [Point Clouds to GIF](https://github.com/dsonyy/point-cloud-to-gif)|Renders plain text XYZ point clouds and save them as GIF animations.|
-|🏡 **Smart Home Mockup**|Shows the potential of home automation.|
-|🎆 [**2D Lidar -> 3D Lidar**](https://github.com/knei-knurow/lidar-2d-to-3d)| Making 2D lidar behave more 3D. |
-|🎆 [**Lidar Visualizations**](https://github.com/knei-knurow/lidar-visualizations)| A part of the article for [Practical Electronics Magazine](https://ep.com.pl/).|
-|🤖 **Scan & Print**|A box generating a point cloud from the physical object closed inside.|
+|🏡 Smart Home Mockup|Shows the potential of home automation.|
+|🎆 [2D Lidar -> 3D Lidar](https://github.com/knei-knurow/lidar-2d-to-3d)| Making 2D lidar behave more 3D. |
+|🎆 [Lidar Visualizations](https://github.com/knei-knurow/lidar-visualizations)| A part of the article for [Practical Electronics Magazine](https://ep.com.pl/).|
+|🤖 Scan & Print|A box generating a point cloud from the physical object closed inside.|
 |🧬 [Game of life in Go/WASM](https://github.com/dsonyy/wasm-game-of-life)|[Conway's Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) compiled to WebAssembly from Go.|
 |🤨 [n-Dimensional Tic-Tac-Toe](https://github.com/dsonyy/n-dimensional-tic-tac-toe)|Implementation of the game rules on n-dimensional board.|
 |🖥 [C++ stuff](https://github.com/dsonyy/cpp-stuff)|My small programs and stuff written in C++.|
