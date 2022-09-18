@@ -17,7 +17,7 @@ I'm a student and programming enthusiast from Poland.
 ### Some of my projects
 |**Project**|**Description**|
 |:---|:---|
-|🚀 **Mars Rover Kalman**|[AGH Space Systems](https://pl-pl.facebook.com/aghspace/), 4th in the world at University Rover Challenge 2022. |
+|🥇 **Mars Rover Kalman**|[AGH Space Systems](https://pl-pl.facebook.com/aghspace/), 1st place at ERC2022, 4th place at URC2022. |
 |🚀 Mars Rover Knurów|[Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). |
 |🧪 [Cloud of Science](https://github.com/dsonyy/cloud-of-science)| [WIP] Visualizing technology-related papers as an interactive cloud. |
 |🔦 [Light Printer](https://github.com/dsonyy/light-printer)|Project developed with love for long exposure photos.|
