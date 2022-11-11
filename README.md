@@ -6,6 +6,7 @@ I'm a student and programming enthusiast from Poland.
 ### About me
 - 🎓 Computer Science student at AGH University of Science and Technology.
 - 🤖 Member of [AGH Space Systems](https://pl-pl.facebook.com/aghspace/). Kalman Mars Rover software team.
+- 🤖 Member of [BIT Scienfitic Group](https://knbit.edu.pl/).
 - 🤖 Former member of [Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). Knurów Mars Rover software team.
 - 👨‍🏫 Former volunteer mentor/teacher at [CoderDojo Rybnik](https://coderdojo.org.pl/) and [Akademia Techniczna Małolata](https://www.facebook.com/atm.rybnik/).
 - 💻 Mainly programming in [C++](https://github.com/dsonyy/cpp-stuff), [Python](https://github.com/dsonyy/python-stuff), [JavaScript](https://github.com/dsonyy/frontend-stuff).
