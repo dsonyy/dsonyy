@@ -20,6 +20,7 @@ I'm a student and programming enthusiast from Poland.
 |:---|:---|
 |🥇 **Mars Rover Kalman**|[AGH Space Systems](https://pl-pl.facebook.com/aghspace/), 1st place at ERC2022, 4th place at URC2022. |
 |🚀 Mars Rover Knurów|[Electronics and Computer Science Club in Knurów](https://github.com/knei-knurow). |
+|🤖 [My ROS Lectures](https://github.com/aghbit/BIT_ROS)| [BIT Scientific Group at AGH UST](https://knbit.edu.pl/). |
 |🧪 [Cloud of Science](https://github.com/dsonyy/cloud-of-science)| [WIP] Visualizing technology-related papers as an interactive cloud. |
 |🔦 [Light Printer](https://github.com/dsonyy/light-printer)|Project developed with love for long exposure photos.|
 |☁ [Point Clouds to GIF](https://github.com/dsonyy/point-cloud-to-gif)|Renders plain text XYZ point clouds and save them as GIF animations.|
