@@ -1,5 +1,6 @@
 ### Hello! I'm Szymon.
-I'm a student and programming enthusiast from Poland.
+
+Seeking growth at the intersection of software, hardware, and space. Experienced in building software for robotics and science. Co-founder, freelancer, and team leader with a track record of delivering real-world projects. Passionate about inspiring and educating others through NGO work.
 
 [Telegram](https://t.me/dsonyy) • [LinkedIn](https://www.linkedin.com/in/szymonbednorz/) • [GitLab](https://gitlab.com/dsonyy) • [Kaggle](https://www.kaggle.com/dsonyy) • [Instagram](https://www.instagram.com/dsonyy/) • [Stack Overflow](https://stackoverflow.com/users/7389107/szymon-bednorz) • [Youtube](https://www.youtube.com/channel/UCTK1G50nzIpqyXorTgXk7kw)
 
